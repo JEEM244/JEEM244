@@ -10,7 +10,7 @@
 
 ### Perfil de Logros
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JEEM244&theme=radical&no-bg=true&margin-w=15&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JEEM244&theme=flat&no-bg=true&margin-w=15)
 
 ---
 
@@ -27,7 +27,7 @@ Soy un apasionado de la tecnología y la seguridad informática. Me enfoco en el
 
 ### Stack Tecnológico
 
-#### Lenguajes & Frameworks
+#### Lenguajes y Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -38,7 +38,7 @@ Soy un apasionado de la tecnología y la seguridad informática. Me enfoco en el
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Herramientas de Ciberseguridad & Dev
+#### Herramientas de Ciberseguridad y Desarrollo
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23004170.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -49,23 +49,20 @@ Soy un apasionado de la tecnología y la seguridad informática. Me enfoco en el
 
 ### Análisis de Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEEM244&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEEM244&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JEEM244&theme=radical&hide_border=true&area=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JEEM244&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JEEM244&theme=github&hide_border=true&area=true)
 
 ---
 
-### Contribuciones
+### Gráfico de Contribuciones
 
-![Snake](https://raw.githubusercontent.com/JEEM244/JEEM244/output/github-contribution-grid-snake.svg)
+![Contrib Graph](https://activity-graph.herokuapp.com/graph?username=JEEM244&theme=dracula)
 
 ---
 
 <p align="center">
   <i>"El código es la ley, pero la seguridad es el orden."</i>
 </p>
-
