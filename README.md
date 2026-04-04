@@ -8,9 +8,9 @@
 
 ---
 
-### Perfil de Logros
+### Logros Profesionales
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JEEM244&theme=flat&no-bg=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JEEM244&theme=darkhub&no-bg=true&margin-w=15)
 
 ---
 
@@ -38,7 +38,7 @@ Soy un apasionado de la tecnología y la seguridad informática. Me enfoco en el
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Herramientas de Ciberseguridad y Desarrollo
+#### Herramientas de Ciberseguridad
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23004170.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -49,20 +49,16 @@ Soy un apasionado de la tecnología y la seguridad informática. Me enfoco en el
 
 ### Análisis de Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEEM244&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JEEM244&theme=github&hide_border=true&area=true)
-
----
-
-### Gráfico de Contribuciones
-
-![Contrib Graph](https://activity-graph.herokuapp.com/graph?username=JEEM244&theme=dracula)
-
----
-
 <p align="center">
-  <i>"El código es la ley, pero la seguridad es el orden."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEM244&layout=compact&theme=tokyonight" width="41%" />
 </p>
+
+![Hoja de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=JEEM244&theme=tokyonight&hide_border=true&area=true)
+
+---
+
+### Contribuciones (Snake)
+
+![Contribuciones](https://github-readme-stats.vercel.app/api/pin/?username=JEEM244&repo=CiberSuite&theme=tokyonight)
+
