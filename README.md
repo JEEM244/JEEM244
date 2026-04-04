@@ -1,43 +1,53 @@
-# Jesús
+# Jesús | Full Stack & Cybersecurity 🛡️
 
-Estudiante de Programación con interés en ciberseguridad, desarrollo web y proyectos en Roblox Studio.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=JEEM244&fontSize=90&animation=fadeIn&fontAlignY=38)
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Specialist;Full+Stack+Developer;Automation+Expert;Roblox+Scripter" alt="Typing SVG" />
+</p>
 
-## Sobre mí
+### 🚀 Sobre mí
 
-- Desarrollo herramientas de ciberseguridad, proyectos web y automatizaciones
-- Aprendo constantemente nuevas tecnologías
-- Experiencia en Python, JavaScript, HTML, CSS, Kotlin y Git
-- Interesado en ciberseguridad, inteligencia artificial y herramientas de productividad
-- Autor de [CiberSuite](https://github.com/JEEM244/CiberSuite) — suite Red & Blue Team en Python
+Soy un apasionado de la **tecnología** y la **seguridad informática**. Me enfoco en el desarrollo de herramientas de defensa digital y automatización de procesos complejos.
 
----
-
-## Tecnologías y herramientas
-
-| Lenguajes | Frameworks / Librerías | Herramientas |
-|-----------|------------------------|--------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | | ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white) |
+- 🛡️ Autor de [**CiberSuite**](https://github.com/JEEM244/CiberSuite)
+- 💻 Especialista en **Python** y **Auditoría Web**
+- ⚡ Experto en lógicas avanzadas con **Lua**
+- 🎯 Siempre buscando el equilibrio entre funcionalidad y seguridad
 
 ---
 
-## Estadísticas de GitHub
+### 📂 Stack Tecnológico
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JEEM244&layout=compact&theme=radical)
+#### 🌐 Lenguajes & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛠️ Herramientas de Ciberseguridad & Dev
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23004170.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Conéctate conmigo
+### 📊 Análisis de Actividad
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEEM244&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JEEM244&theme=radical&hide_border=true)
 
 ---
 
-Perfil creado para mostrar mis proyectos y habilidades de manera profesional y clara.
+![Snake](https://github-readme-stats.vercel.app/api/pin/?username=JEEM244&repo=CiberSuite&theme=radical&show_owner=true)
+
