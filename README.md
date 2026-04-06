@@ -49,8 +49,3 @@ Soy un apasionado de la tecnología y la seguridad informática. Me enfoco en el
 
 ![Snake](https://raw.githubusercontent.com/JEEM244/CiberSuite/output/github-contribution-grid-snake.svg)
 
----
-
-<p align="center">
-  <i>"El código es la ley, pero la seguridad es el orden."</i>
-</p>
