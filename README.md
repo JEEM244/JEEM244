@@ -8,6 +8,14 @@
 
 
 
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEEM244/JEEM244/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEEM244/JEEM244/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JEEM244/JEEM244/output/github-snake.svg" />
+</picture>
+
 ### Análisis de Actividad
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&theme=tokyonight&count_private=true)
