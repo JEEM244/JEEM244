@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">JEEM244 - proyectos y desarrollo</title>
+<desc id="desc">Portada personal con una composición de terminal, navegador y tarjetas de proyectos.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1524"/><stop offset=".55" stop-color="#162E43"/><stop offset="1" stop-color="#1B4252"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#D6E8F0" stroke-opacity=".07"/></pattern>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/><rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <rect x="66" y="55" width="180" height="30" rx="15" fill="#5EEAD4" opacity=".14" stroke="#5EEAD4" stroke-opacity=".55"/>
+ <text x="156" y="75" text-anchor="middle" fill="#8DE8D9" font-size="12" font-weight="700" letter-spacing="2">PORTAFOLIO PERSONAL</text>
+ <text x="66" y="162" fill="#F3F7FB" font-size="58" font-weight="760">JEEM244</text>
+ <text x="70" y="203" fill="#C8D7E5" font-size="20">Desarrollo web · Automatización · Proyectos de software</text>
+ <path d="M69 237H420" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+ <text x="70" y="277" fill="#92AFC3" font-size="13" letter-spacing="1.2">APRENDER · CONSTRUIR · PROBAR · MEJORAR</text>
+</g>
+<g transform="translate(690 40)">
+ <rect x="0" y="0" width="420" height="245" rx="17" fill="#0B1320" stroke="#56748B" stroke-width="2"/>
+ <rect x="0" y="0" width="420" height="35" rx="17" fill="#213B50"/><rect y="18" width="420" height="17" fill="#213B50"/>
+ <circle cx="22" cy="17" r="4" fill="#F18A7B"/><circle cx="38" cy="17" r="4" fill="#E5BC70"/><circle cx="54" cy="17" r="4" fill="#5EEAD4"/>
+ <g fill="#8BE7D5" font-family="Consolas,monospace" font-size="13"><text x="24" y="67">&gt; git status</text><text x="24" y="95" fill="#DAE6EF">working on new ideas...</text><text x="24" y="123">&gt; build project</text><text x="24" y="151" fill="#DAE6EF">web / desktop / cli</text><text x="24" y="179">&gt; improve README</text></g>
+ <g transform="translate(256 54)">
+  <rect x="0" y="0" width="140" height="62" rx="9" fill="#17354A" stroke="#4F89A6"/>
+  <rect x="14" y="14" width="46" height="6" rx="3" fill="#60A5FA"/><rect x="14" y="27" width="108" height="5" rx="2" fill="#597F97"/><rect x="14" y="40" width="82" height="5" rx="2" fill="#597F97"/>
+  <rect x="0" y="77" width="140" height="62" rx="9" fill="#173F3D" stroke="#4BAA99"/>
+  <rect x="14" y="91" width="46" height="6" rx="3" fill="#5EEAD4"/><rect x="14" y="104" width="108" height="5" rx="2" fill="#5A8A85"/><rect x="14" y="117" width="82" height="5" rx="2" fill="#5A8A85"/>
+ </g>
+</g>
+</svg>
