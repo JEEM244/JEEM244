@@ -60,8 +60,8 @@ Estas son varias de las tecnologías con las que he trabajado en proyectos, prá
 
 ### Frameworks, librerías y desarrollo
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express, vite,electron,dotnet,selenium&perline=8" alt="Angular, React, Node.js, Express, Vite, Electron y .NET" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,vite,electron,dotnet,fastapi&perline=8" alt="Angular, React, Node.js, Express, Vite, Electron, .NET y FastAPI" />
 </p>
 
 - **Backend y APIs:** FastAPI, Uvicorn, Axios, Fetch API, JWT y CORS.
