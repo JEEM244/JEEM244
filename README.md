@@ -20,20 +20,6 @@ Estudiante | Desarrollador en aprendizaje | Curioso por la tecnología
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/JEEM244/Motor2D">Motor2D</a></h3>
-      <p>Un experimento para crear un motor y editor 2D en Windows con C# y .NET.</p>
-      <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/JEEM244/CRUD-Mariscos">MARISCOS PIPE</a></h3>
-      <p>Sistema web para organizar pedidos, platillos, clientes y el almacén de un restaurante.</p>
-      <img src="https://img.shields.io/badge/CRUD-2563EB?style=flat-square" />
-      <img src="https://img.shields.io/badge/Web-111827?style=flat-square&logo=googlechrome&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3><a href="https://github.com/JEEM244/apk">DroidForge</a></h3>
       <p>Aplicación de escritorio para preparar proyectos Android, generar APK de prueba e instalarlas con ADB.</p>
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
@@ -44,6 +30,20 @@ Estudiante | Desarrollador en aprendizaje | Curioso por la tecnología
       <p>Práctica de Angular con rutas, distintas pantallas y una apariencia inspirada en videojuegos retro.</p>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/JEEM244/android-app">Aplicación Android</a></h3>
+      <p>App con menú principal, cuestionario de 12 preguntas, selector de colores y calculadora.</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/JEEM244/CiberSuite">CiberSuite</a></h3>
+      <p>Proyecto de práctica con interfaz gráfica y herramientas para explorar conceptos de redes y seguridad.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/CustomTkinter-2B2B2B?style=flat-square" />
     </td>
   </tr>
 </table>
