@@ -50,11 +50,47 @@ Estudiante | Desarrollador en aprendizaje | Curioso por la tecnología
 
 ## Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,mysql,cs,dotnet,react,electron,kotlin,git,powershell,vscode&perline=8" alt="Tecnologías que he utilizado" />
+Estas son varias de las tecnologías con las que he trabajado en proyectos, prácticas y pruebas. No todas las uso al mismo nivel, pero sí he tenido contacto con ellas.
+
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,cs,kotlin,xml&perline=10" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python, Bash, C sharp, Kotlin y XML" />
 </p>
 
-No diría que domino todo esto; son tecnologías con las que he hecho prácticas o proyectos y que sigo aprendiendo.
+### Frameworks, librerías y desarrollo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express, vite,electron,dotnet,selenium&perline=8" alt="Angular, React, Node.js, Express, Vite, Electron y .NET" />
+</p>
+
+- **Backend y APIs:** FastAPI, Uvicorn, Axios, Fetch API, JWT y CORS.
+- **Escritorio y juegos:** WPF, MonoGame y CustomTkinter.
+- **Android:** AndroidX, AppCompat, Android Studio e Intents.
+
+### Bases de datos y servidores
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,apache&perline=6" alt="MySQL, SQLite y Apache" />
+</p>
+
+- MySQL, MariaDB y SQLite.
+- SQL y PDO.
+- XAMPP, Apache y phpMyAdmin.
+
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,powershell,linux,windows,npm,gradle&perline=9" alt="Git, GitHub, Visual Studio Code, Visual Studio, PowerShell, Linux, Windows, npm y Gradle" />
+</p>
+
+- **Desarrollo:** Git, GitHub, Visual Studio Code, Visual Studio, Vim, npm y Vite.
+- **Android:** Gradle, ADB y Android SDK.
+- **Terminales y sistemas:** PowerShell, Bash, Termux y Windows.
+- **Ciberseguridad y redes:** Nmap, Wireshark y Burp Suite.
+- **Pruebas:** xUnit.
+
+No diría que domino toda esta lista. Algunas herramientas las he usado más que otras y varias forman parte de proyectos que todavía estoy desarrollando.
 
 ## Lo que me interesa
 
