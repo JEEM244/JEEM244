@@ -1,46 +1,46 @@
-<p align="center">
-  <img src="assets/profile-cover.svg" alt="Portada de mi perfil" width="100%">
-</p>
+# JEEM244
 
-# Hola, soy JEEM244
+> Estudiante de Programación Web · México
 
-Soy estudiante de Programación Web. En este perfil subo cosas que voy haciendo mientras aprendo y pruebo ideas. Hay proyectos escolares, herramientas que quiero mejorar y experimentos que todavía están a medias.
+Me gusta aprender haciendo proyectos. A veces empiezo con una idea pequeña y termino probando cosas de desarrollo web, aplicaciones de escritorio, Android o programación de juegos. Este perfil es donde voy dejando parte de ese trabajo.
 
-## Algunos proyectos
+```text
+jeem244@github:~$ whoami
+Estudiante | Desarrollador en aprendizaje | Curioso por la tecnología
+```
 
-- **[YEXCEL](https://github.com/JEEM244/YEXCEL)** — Una herramienta para llevar registros y trabajar con datos de Excel.
-- **[Tibainv](https://github.com/JEEM244/Tibainv)** — Un organizador de notas, listas y capturas relacionadas con Tibia.
-- **[PREPA-AI](https://github.com/JEEM244/PREPA-AI)** — Una CLI para Windows pensada como apoyo escolar. Todavía tiene partes pendientes.
-- **[DODO-OS](https://github.com/JEEM244/DODO-OS)** — Un proyecto experimental para aprender sobre kernels x86-64.
+## Proyectos
 
-## Otros repositorios
+Estos son algunos repositorios públicos que sí están disponibles actualmente:
 
-- [D2 Soluciones Digitales](https://github.com/JEEM244/d2) — Catálogo de servicios y solicitudes.
-- [DroidForge](https://github.com/JEEM244/apk) — Prototipo para compilar APK de prueba e instalarlas con ADB.
-- [NEXUS Security](https://github.com/JEEM244/divlad) — Proyecto para revisar y visualizar información de red.
-- [NEXUS CLI](https://github.com/JEEM244/Termux) — Herramientas de diagnóstico local para Termux.
-- [OMEGA Language](https://github.com/JEEM244/language) — Experimento con un lenguaje de programación y su compilador.
-- [Home](https://github.com/JEEM244/home) — Organizador local de documentos escolares.
-- [Centro Escolar](https://github.com/JEEM244/Prueba-Escuela) — Práctica de una plataforma escolar con Angular.
-- [App Android](https://github.com/JEEM244/android-app) — Actividades de práctica hechas con Kotlin.
+| Proyecto | De qué va |
+| --- | --- |
+| [Motor2D](https://github.com/JEEM244/Motor2D) | Motor y editor 2D experimental para Windows, hecho con C# y .NET. |
+| [MARISCOS PIPE](https://github.com/JEEM244/CRUD-Mariscos) | Sistema web para administrar pedidos, platillos, clientes y almacén de un restaurante. |
+| [DroidForge](https://github.com/JEEM244/apk) | Aplicación de escritorio para preparar proyectos Android, generar APK de prueba e instalarlas con ADB. |
+| [Enrutamiento](https://github.com/JEEM244/Enrutamiento) | Práctica con Angular: rutas, pantallas y un diseño inspirado en videojuegos retro. |
+| [App Android](https://github.com/JEEM244/android-app) | Aplicación en Kotlin con un quiz, selector de colores y calculadora. |
 
-## Tecnologías
+## Lo que suelo usar
 
-He trabajado con:
+**Web:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `TypeScript` · `Angular`
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
-</p>
+**Aplicaciones:** `C#` · `.NET` · `WPF` · `Electron` · `React` · `Kotlin`
 
-No todo lo que está aquí está terminado. Voy subiendo avances, haciendo cambios y aprendiendo sobre la marcha.
+**Herramientas:** `Git` · `PowerShell` · `ADB` · `Gradle`
 
-[Ver todos mis repositorios](https://github.com/JEEM244?tab=repositories)
+No diría que domino todo esto; son tecnologías con las que he hecho prácticas o proyectos y que sigo aprendiendo.
+
+## Cosas que me interesan
+
+- Crear páginas y aplicaciones que realmente hagan algo.
+- Entender cómo funcionan las herramientas, no solo usarlas.
+- Desarrollo de videojuegos y motores 2D.
+- Android y aplicaciones de escritorio.
+- Redes y ciberseguridad.
+
+## Un poco sobre este perfil
+
+Aquí hay proyectos escolares, pruebas y cosas que voy construyendo por mi cuenta. Algunos están más completos que otros; prefiero dejar claro qué hace cada uno en su propio repositorio.
+
+**[Ver todos mis repositorios →](https://github.com/JEEM244?tab=repositories)**
