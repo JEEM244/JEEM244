@@ -60,7 +60,7 @@ Estas son varias de las tecnologías con las que he trabajado en proyectos, prá
 
 ### Frameworks, librerías y desarrollo
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,vite,electron,dotnet,fastapi&perline=8" alt="Angular, React, Node.js, Express, Vite, Electron, .NET y FastAPI" />
 </p>
 
