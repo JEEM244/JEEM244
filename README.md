@@ -103,8 +103,8 @@ No diría que domino toda esta lista. Algunas herramientas las he usado más que
 ## Actividad de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JEEM244&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEM244&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JEEM244&theme=github_dark" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JEEM244&theme=github_dark" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
